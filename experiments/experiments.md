@@ -13,7 +13,7 @@ Cat Feeder / Bird Trap
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](bird_trap_cat_feeder.gif)
 
 (Insert a caption here)
 
