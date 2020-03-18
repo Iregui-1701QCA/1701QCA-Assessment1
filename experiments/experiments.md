@@ -8,7 +8,7 @@
 
 ### Experiment name ###
 
-Cat Feeder / Bird Trap
+Cat Feeder / Bird Trap 3
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
